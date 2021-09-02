@@ -1,11 +1,11 @@
 # Fall-2019
-#COURSE DESCRIPTION
+# COURSE DESCRIPTION
 
 This one-year interactive seminar builds skills, knowledge and community in computational biology for first year PhD and second year Designated Emphasis students. Topics covered include concepts in Personal genomics, with emphasis on statistical and computational methods for data analysis and critical review and discussion of current research studies and methods. Faculty members of the graduate program in computational biology and scientists from other institutions will participate.
 
  
 
-#INSTRUCTORS
+# INSTRUCTORS
 
 Professor: Priya Moorjani
 
